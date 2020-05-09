@@ -13,3 +13,5 @@ With this project, Tracey can simply update the CMS (google sheets for now) and 
 ## TODO
 - The title should be read from the sheet, not hardcoded at 2019
 - fix the spinning icon!
+- make the filters nicer
+- update to use hooks
